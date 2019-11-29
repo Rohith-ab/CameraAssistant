@@ -4,7 +4,7 @@
 Camera assistant where you can pan the camera a bit (movement of around 2 inches wide) which will capture multiple frames and gives you 3 best pics with corrections (filters, colour corrections, crop, alignment etc.) to choose from. You can re-visit the original photo and use it as horizontal frame (full width) if needed.
 
 
-#### What are we solving here
+#### What are we solving here?
 Imagine someone with difficulties getting a good frame, alignements, colour filters etc right with one shot. People take multiple pictures before they zero in on one good picture. Camera Assistant will solve this with a single click where our on device ML model which has been trained with millions of pictures taken by professional photgraphers across different locations, seasons and perspectives will help in composing the best picture with corrections so that you don't have to do it manually. This removes the anxiety people have when they are short of time at a picturesque location, but want the best frames. The app takes a wider angle photo which can be manipulated later manually as well.
 
 #### Picture this!
