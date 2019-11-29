@@ -14,6 +14,14 @@ Step 2: As per the animated instruction just pan the camera for about 2 inches h
 
 Step 3: The app will show 3 corrected images (by applying filters, colour corrections, crop, alignment etc.) and will also show you comparison of the original image without applying any changes/filters.
 
+<img src="Story-8.jpg" width="90%">
+
+<img src="Story-9.jpg" width="90%">
+
+<img src="Story-10.jpg" width="90%">
+
+<img src="Story-11.jpg" width="90%">
+
 # Bringing it to life
 
 We are just an idea at this moment, we would like to take advantage of Google’s on/off device ML and image stitching to check popular photos from Google database and produce 3 best matching results based on the popularity of the reference image.
