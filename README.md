@@ -8,6 +8,8 @@ Step 1: Open the camera app and tap on Camera Assistant button
 
 Step 2: As per the animated instruction just pan the camera for about 2 inches horizontally from left to right while placing the subject in the centre.
 
+<img src="Story-2.jpg" width="50%">
+
 Step 3: The app will show 3 corrected images (by applying filters, colour corrections, crop, alignment etc.) and will also show you comparison of the original image without applying any changes/filters.
 
 # Bringing it to life
