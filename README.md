@@ -30,6 +30,31 @@ Imagine someone with difficulties getting a good frame, alignements, colour filt
 
 We are just an idea at this moment, we would like to take advantage of Google’s on/off device ML and image stitching to check popular photos taken by professionals from Google database and produce 3 best matching results based on the popularity of the reference images.
 
+### Where we are now :
+We are just an idea at this moment, but we have clear picture of how we can bring it to life.
+
+### What are the things we will use :
+Tensorflow for training Machine Learning Model and CameraX library to take the picture.
+
+### How Google can help us :
+
+* Give us the require images and resources (like cloud) to train the model.
+* Computer Vision Expert as mentor would be highly appreciated.
+
+### Timeline :
+
+#### In December 2019:
+* Studying and building and the dataset.
+
+#### In January 2020:
+* Analyzing and Preparing the ML model.
+* Developing & Testing the Android App.
+
+#### In February & March 2020 :
+* Training & Testing the model.
+
+#### In April 2020:
+* Testing the final output in real environment.
 
 # About us
 
