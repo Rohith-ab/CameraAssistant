@@ -2,17 +2,17 @@
 
 Camera assistant where you can pan the camera a bit (movement of around 2 inches wide) which will capture multiple frames and gives you 3 best pics with corrections (filters, colour corrections, crop, alignment etc.) to choose from. You can re-visit the original photo and use it as horizontal frame (full width) if needed.
 
-Step 1: Open the camera app and tap on Camera Assistant button
+***Step 1: Open the camera app and tap on Camera Assistant button***
 
 <img src="Story-1.jpg" width="90%">
 
-Step 2: As per the animated instruction just pan the camera for about 2 inches horizontally from left to right while placing the subject in the centre.
+***Step 2: As per the animated instruction just pan the camera for about 2 inches horizontally from left to right while placing the subject in the centre.***
 
 <img src="Story-2.jpg" width="90%">
 
 <img src="StoryNew2.gif" width="90%">
 
-Step 3: The app will show 3 corrected images (by applying filters, colour corrections, crop, alignment etc.) and will also show you comparison of the original image without applying any changes/filters.
+***Step 3: The app will show 3 corrected images (by applying filters, colour corrections, crop, alignment etc.) and will also show you comparison of the original image without applying any changes/filters.***
 
 <img src="Story-8.jpg" width="90%">
 
