@@ -10,6 +10,8 @@ Step 2: As per the animated instruction just pan the camera for about 2 inches h
 
 <img src="Story-2.jpg" width="90%">
 
+<img src="StoryNew2.gif" width="90%">
+
 Step 3: The app will show 3 corrected images (by applying filters, colour corrections, crop, alignment etc.) and will also show you comparison of the original image without applying any changes/filters.
 
 # Bringing it to life
