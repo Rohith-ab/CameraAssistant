@@ -1,4 +1,6 @@
-# CameraAssistant
+#AndroidDevChallenge
+
+# Camera Assistant
 
 #### The idea
 Camera assistant where you can pan the camera a bit (movement of around 2 inches wide) which will capture multiple frames and gives you 3 best pics with corrections (filters, colour corrections, crop, alignment etc.) to choose from. You can re-visit the original photo and use it as horizontal frame (full width) if needed.
