@@ -16,7 +16,7 @@ Imagine someone with difficulties getting a good frame, alignements, colour filt
 
 <img src="StoryNew2.gif" width="90%">
 
-***Step 3: The app will show 3 corrected images (by applying filters, colour corrections, crop, alignment etc.) and will also show you comparison of the original image without applying any changes/filters.***
+***Step 3: The app will process (using ML) the taken image and show 3 corrected images (by applying filters, colour corrections, crop, alignment etc.) and will also show you comparison of the original image without applying any changes/filters.***
 
 <img src="Story-8.jpg" width="90%">
 
