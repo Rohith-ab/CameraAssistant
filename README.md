@@ -33,18 +33,18 @@ We are just an idea at this moment, we would like to take advantage of Google’
 ### Where we are now :
 We are just an idea at this moment, but we have clear picture of how we can bring it to life.
 
-### What are the things we will use :
-Tensorflow for training Machine Learning Model and CameraX library to take the picture.
+### What are the things we will be using :
+Tensorflow for training the Machine Learning Model and CameraX library to take the picture using the app.
 
 ### How Google can help us :
 
-* Give us the require images and resources (like cloud) to train the model.
-* Computer Vision Expert as mentor would be highly appreciated.
+* Help us with the required images and resources (like cloud) to train the model.
+* Computer Vision Expert as a mentor would be really helpful.
 
 ### Timeline :
 
 #### In December 2019:
-* Studying and building and the dataset.
+* Studying and building the dataset.
 
 #### In January 2020:
 * Analyzing and Preparing the ML model.
