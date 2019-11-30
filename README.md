@@ -36,13 +36,15 @@ Usually when we ask a stranger to click a picture, they take a picture with thei
 
 # Bringing it to life
 
-We are just an idea at this moment, we would like to take advantage of Google’s on/off device ML and image stitching to check popular photos taken by professionals from Google database and produce 3 best matching results based on the popularity of the reference images.
-
 ### Where we are now :
 We are just an idea at this moment, but we have a clear picture of how we can bring it to life.
 
-### What are the things we will be using :
-Tensorflow for training the Machine Learning Model and CameraX library to take the picture from the Android App.
+### Our Approach:
+
+1. Stiching the multiple images from panning to make a larger image.
+2. Matching each portion of the image with millions of image from which model has been trained on.
+3. Taking the top 3 best matching images.
+4. Adjusting the image (like cropping, rotating etc) & applying the perfect settings (like brightness, contrast etc).
 
 ### How Google can help us :
 
